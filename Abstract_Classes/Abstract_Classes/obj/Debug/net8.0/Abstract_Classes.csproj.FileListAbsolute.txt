@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\obj\Debug\net8.0\Abstract_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\obj\Debug\net8.0\Abstract_Classes.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\obj\Debug\net8.0\Abstract_Classes.AssemblyInfo.cs
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\obj\Debug\net8.0\Abstract_Classes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\bin\Debug\net8.0\Abstract_Classes.exe
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\bin\Debug\net8.0\Abstract_Classes.deps.json
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\bin\Debug\net8.0\Abstract_Classes.runtimeconfig.json
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\bin\Debug\net8.0\Abstract_Classes.dll
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\bin\Debug\net8.0\Abstract_Classes.pdb
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\obj\Debug\net8.0\Abstract_Classes.dll
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\obj\Debug\net8.0\refint\Abstract_Classes.dll
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\obj\Debug\net8.0\Abstract_Classes.pdb
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\obj\Debug\net8.0\Abstract_Classes.genruntimeconfig.cache
+C:\Users\HP\Desktop\OOP\Abstract_Classes\Abstract_Classes\obj\Debug\net8.0\ref\Abstract_Classes.dll
