@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\OOP\polymorphism\DZ4\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OOP\polymorphism\DZ4\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OOP\polymorphism\DZ4\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+C:\Users\HP\Desktop\OOP\polymorphism\DZ4\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
