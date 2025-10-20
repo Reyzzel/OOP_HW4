@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\OOP\encapsulation\TestModifierLibrary\bin\Debug\net8.0\TestModifierLibrary.deps.json
+C:\Users\HP\Desktop\OOP\encapsulation\TestModifierLibrary\bin\Debug\net8.0\TestModifierLibrary.dll
+C:\Users\HP\Desktop\OOP\encapsulation\TestModifierLibrary\bin\Debug\net8.0\TestModifierLibrary.pdb
+C:\Users\HP\Desktop\OOP\encapsulation\TestModifierLibrary\obj\Debug\net8.0\TestModifierLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OOP\encapsulation\TestModifierLibrary\obj\Debug\net8.0\TestModifierLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OOP\encapsulation\TestModifierLibrary\obj\Debug\net8.0\TestModifierLibrary.AssemblyInfo.cs
+C:\Users\HP\Desktop\OOP\encapsulation\TestModifierLibrary\obj\Debug\net8.0\TestModifierLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OOP\encapsulation\TestModifierLibrary\obj\Debug\net8.0\TestModifierLibrary.dll
+C:\Users\HP\Desktop\OOP\encapsulation\TestModifierLibrary\obj\Debug\net8.0\refint\TestModifierLibrary.dll
+C:\Users\HP\Desktop\OOP\encapsulation\TestModifierLibrary\obj\Debug\net8.0\TestModifierLibrary.pdb
+C:\Users\HP\Desktop\OOP\encapsulation\TestModifierLibrary\obj\Debug\net8.0\ref\TestModifierLibrary.dll
